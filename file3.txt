@@ -5,4 +5,7 @@ Git basics
 Git DVCS tools
 Git workflow
 git basic commands
-
+git branch 
+git switch newbranch name
+git pull origin main
+git push origin main
